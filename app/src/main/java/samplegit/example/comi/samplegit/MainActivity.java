@@ -22,6 +22,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
+       TextView aa = (TextView)findViewById(R.id.textView);
+        aa.setText("aaa");
+
     }
 
     @Override
