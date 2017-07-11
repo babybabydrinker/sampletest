@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
 
        TextView aa = (TextView)findViewById(R.id.textView);
-        aa.setText("aaa");
+        aa.setText("aaabbbbbbbbbbbbbbbbbbbbbb");
 
     }
 
