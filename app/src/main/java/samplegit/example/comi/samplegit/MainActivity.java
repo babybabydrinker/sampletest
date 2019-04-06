@@ -26,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
         aa.setText("aaabbbbbbbbbbbbbbbbbbbbbbcccccccccccccccc" +
                 "aaaa");
 
+        aa.setText("0406");
+
     }
 
     @Override
