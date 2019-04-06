@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         aa.setText("aaabbbbbbbbbbbbbbbbbbbbbbcccccccccccccccc" +
                 "aaaa");
 
-        aa.setText("0406");
+        aa.setText("0408");
 
     }
 
