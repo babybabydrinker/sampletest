@@ -26,7 +26,9 @@ public class MainActivity extends AppCompatActivity {
         aa.setText("aaabbbbbbbbbbbbbbbbbbbbbbcccccccccccccccc" +
                 "aaaa");
 
-        aa.setText("サブアカウントからきた");
+
+        aa.setText("サブアカウントから");
+
 
     }
 
